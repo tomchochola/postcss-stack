@@ -1,162 +1,185 @@
-# Preview [https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/postcss-stack** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/postcss-stack** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/postcss-stack**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
+
+**Original content starts here!**
+
+---
+
 # [PostCSS Stack](https://github.com/premierstacks/postcss-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Enhance your CSS with our PostCSS Stack: a refined setup for superior styling, ensuring seamless compatibility and performance across web projects. Ideal for modern, maintainable designs.
+✨ _**Clone and Win!**_
 
-Our PostCSS Stack offers a meticulously curated set of configurations, optimizing your styling workflow for compatibility, performance, and maintainability. Designed for quick integration, this setup allows for more creative styling with less configuration hassle. It represents the culmination of extensive research into styling trends and best practices, packaged into an accessible and continuously updated tool. This config ensures your projects stay at the forefront of web design, delivering consistent, high-quality styling results that set a new benchmark for excellence.
+The PostCSS Stack is a pre-configured set of PostCSS configurations designed to streamline CSS transformations for projects of any scale. Whether you’re using PostCSS directly through the command line or integrating it into a build tool like Webpack, this stack offers an optimized setup that works seamlessly in multiple environments.
 
-## 👌 Top Reasons to Opt for Our Premium PostCSS Stack
+## What is PostCSS Stack?
 
-By incorporating our Premium PostCSS Stack into your web projects, you're not just adopting a styling tool; you're embracing a strategic advantage that enhances compatibility, performance, and maintainability of your styles, setting a new benchmark for excellence in web design.
+The PostCSS Stack is part of the Premierstacks collection and serves as a versatile solution for managing CSS transformations across different project types. It provides pre-configured setups for PostCSS, which can be used as a standalone CLI tool or integrated with bundlers like Webpack using the postcss-loader. This makes it ideal for a range of scenarios, whether you’re processing vanilla CSS files or using advanced features like nesting, autoprefixing, or custom properties.
 
-### ⏱️ Setup in Just 5 Minutes
+The stack is designed to support different environments and frameworks, making it adaptable to a variety of use cases. With specialized configurations for browser-based and Node.js-based projects, it simplifies the integration of PostCSS into your workflow, eliminating the need to manually configure multiple plugins and presets.
 
-Jumpstart your styling with our PostCSS Stack, designed for quick and effortless integration. This setup propels you into a productive workflow, ensuring you spend more time on creative styling and less on configuration.
+Using the PostCSS Stack ensures that your CSS transformations are performed consistently and efficiently, regardless of the tools or frameworks you’re using. By abstracting the complexity of configuring PostCSS, it saves you time, reduces the chance of errors, and allows you to focus on styling and building your frontend without getting bogged down in configuration details.
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+## What is Tomchochola
 
-Our PostCSS Stack is the result of exhaustive research into the latest styling trends, performance optimizations, and compatibility standards. By choosing our config, you leverage extensive expertise, ensuring your projects are styled using the best practices in the industry.
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
-### 🎚️ Minimal Setup, Maximum Styling Power
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-Enjoy the benefits of an optimized configuration that offers a wide range of styling capabilities with minimal setup requirements. Our flat configuration system simplifies the process, allowing you to focus on crafting exceptional styles.
+## What is Premierstacks
 
-### 📘 Zero Expertise Required
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
-Whether you're a seasoned stylist or new to PostCSS, our configuration is built to be accessible and easy to use. This ensures that developers of all skill levels can achieve professional-grade styling with ease.
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-### 🔄 Continuously Updated
+## Why Premierstacks?
 
-Stay at the cutting edge of web styling with a configuration that's regularly updated to include the latest PostCSS features and plugins. This commitment keeps your projects modern and ensures your styles meet the latest web standards.
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-### ⚔️ Battle-Tested Reliability
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-Depend on a PostCSS Stack that has been rigorously tested across diverse web projects. From simple landing pages to complex web applications, our configuration delivers consistent, high-quality styling results.
+### Why You Should Choose Premierstacks
 
-### 🏆 Premier Quality Guarantee
+**🚀 Unmatched Quality**
 
-Opting for our PostCSS Stack is a testament to your commitment to excellence in web styling. Our configuration is more than just a set of rules; it's a comprehensive styling solution that elevates the visual quality of your projects.
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-## 🛡️ License & Usage
+**⚙️ No Setup Hassles**
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+**📦 Reuse Across Projects**
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+**🔒 Exclusive Resources**
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-### Acquiring a License
+**🛠️ Always Up-to-Date**
 
-To use this software, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+Receive continuous updates and new features, keeping your projects current.
 
-## 🖍️ Highlights
+**💪 Expert Creators**
 
-- **Latest PostCSS Enhancements**: Stay ahead with the latest features and plugins from the PostCSS ecosystem, ensuring cutting-edge styling capabilities.
-- **Optimized Configuration**: Experience hassle-free setup with a flat configuration system, making your development process smoother and more efficient.
-- **Broad Compatibility**: Designed to support a wide array of projects, from simple websites to complex applications, with or without JavaScript frameworks.
-- **Performance-Oriented**: Includes plugins like 'postcss-preset-env' out-of-the-box, optimizing your CSS for speed and cross-browser compatibility.
-- **Best Practices Enforced**: Encourages a maintainable and scalable CSS architecture, promoting high-quality coding standards.
+Developed by experienced professionals dedicated to quality and excellence.
 
-## 🎨 Available Configuration Presets
+## License
 
-Choose from a variety of preconfigured presets:
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-- **recommended**: The default configuration that includes essential PostCSS plugins such as 'postcss-preset-env', catering to most web development needs.
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-## 🎬 Get Started
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-### 1️⃣ License Acquisition
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+## Module exports
 
-### 2️⃣ Package Installation
+Here are the available module exports:
 
-```shell
+```js
+import { recommended } from '@premierstacks/postcss-stack';
+```
+
+## Templates
+
+Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
+
+**[/templates/recommended.template](/templates/recommended.template)**<br />
+
+## Getting Started
+
+**1. Review the documentation and license**
+
+Ensure this package fits your needs and that you agree with the terms.
+
+**2. Obtain a license**
+
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
+
+**3. Install the package**
+
+Install using npm:
+
+```bash
 npm install --save-dev github:premierstacks/postcss-stack
 ```
 
-### 3️⃣ Configuration
+**4. Select a template**
 
-Initialize your `postcss.config.js`:
+Choose one of the predefined configuration templates from the [/templates](/templates) directory that best suits your project’s needs.
 
-```js
-import { configs } from '@premierstacks/postcss-stack';
+Use the `cp` command to copy it into your project as `/postcss.config.js`:
 
-export default configs.recommended();
+```bash
+cp ./node_modules/@premierstacks/postcss-stack/templates/recommended.template ./postcss.config.js
 ```
 
-### 4️⃣ Attribution
+**5. CLI**
 
-Please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+Execute commands:
 
-## The Author: Tomáš Chochola
+```bash
+# run transformations
+./node_modules/.bin/postcss ./src/*.css --dir ./dist
+```
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+## About the Creator
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+### Specializations
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
 
-## 💰 Empower Innovation: Support and Subscribe
+## Contact
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
 
-## 🤝 Join Forces with Tomáš Chochola
+## Tree
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── eslint.config.js
+├── package.json
+├── prettier.config.js
+├── src
+│   ├── configs
+│   │   └── recommended.js
+│   └── index.js
+└── templates
+    └── recommended.template
+
+3 directories, 10 files
+```
